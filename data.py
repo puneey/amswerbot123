@@ -24,7 +24,7 @@ def  init():
     global seconds_elapsed
 
 bot_token = 'NTg2OTY0NDcxNTQ5Nzg4MTcx.XoHMaA.KSFOfJJB5G1KQ-S_JEufMCrKQ6A'
-self_bot_token = 'NTc3MDI0MzM0OTg0MzgwNDE2.XO9PUw.SDyT1uXAAG35zZpXgWYKswkRt2E'
+self_bot_token = 'NDU3MDU4MTcwODgwMTMxMDc0.XL-y3w.zxns2cgc_Y3vTprOX_2VG8Jtt9Q'
 
 message = None
 embed = None
