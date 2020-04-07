@@ -61,7 +61,7 @@ command_channel = '604142351941763072' #trivia-answers
 admin_chat = '604142351941763072' # answers2
 
 game_in_session = False
-counter_public_1 = 0
+counter_public_1 = 0 
 counter_public_2 = 0
 counter_public_3 = 0
 counter_public_4 = 0
